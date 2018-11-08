@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="184648" started-at="2018-10-01T11:24:50Z" finished-at="2018-10-01T11:27:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="184648" started-at="2018-10-01T11:24:50Z" finished-at="2018-10-01T11:27:55Z">
+      <class name="com.dd.qa.selenium.Singleton_FreeCRMTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dd.qa.selenium.Singleton_FreeCRMTest@553a3d88]" name="setUp" is-config="true" duration-ms="109512" started-at="2018-10-01T11:24:50Z" finished-at="2018-10-01T11:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLoginPageTitle()[pri:0, instance:com.dd.qa.selenium.Singleton_FreeCRMTest@553a3d88]" name="validateLoginPageTitle" duration-ms="466" started-at="2018-10-01T11:26:40Z" finished-at="2018-10-01T11:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dd.qa.selenium.Singleton_FreeCRMTest@553a3d88]" name="tearDown" is-config="true" duration-ms="16644" started-at="2018-10-01T11:26:40Z" finished-at="2018-10-01T11:26:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dd.qa.selenium.Singleton_FreeCRMTest@553a3d88]" name="setUp" is-config="true" duration-ms="48872" started-at="2018-10-01T11:26:57Z" finished-at="2018-10-01T11:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLogo()[pri:0, instance:com.dd.qa.selenium.Singleton_FreeCRMTest@553a3d88]" name="validateLogo" duration-ms="706" started-at="2018-10-01T11:27:46Z" finished-at="2018-10-01T11:27:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dd.qa.selenium.Singleton_FreeCRMTest@553a3d88]" name="tearDown" is-config="true" duration-ms="8294" started-at="2018-10-01T11:27:46Z" finished-at="2018-10-01T11:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dd.qa.selenium.Singleton_FreeCRMTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
