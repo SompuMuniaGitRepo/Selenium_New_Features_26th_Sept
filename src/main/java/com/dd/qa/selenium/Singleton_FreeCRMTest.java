@@ -21,6 +21,8 @@ public class Singleton_FreeCRMTest extends Singleton_Webdriver{
 	
 	@Test
 	public void validateLoginPageTitle() {
+		System.out.println("This is to check commit #2 ");
+		
 		 String actualTitle = driver.getTitle();
 		 Assert.assertEquals(actualTitle, "#1 Free CRM software in the cloud for sales and service","Titles don't match");
 	}
